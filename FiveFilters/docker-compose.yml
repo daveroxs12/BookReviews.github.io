@@ -1,0 +1,14 @@
+version: '3.7'
+services:
+
+  fullfeedrss:
+    build: .
+    image: "heussd/fivefilters-full-text-rss:latest"
+    environment:
+      # Leave empty to disable admin section
+      - FTR_ADMIN_PASSWORD=
+    volumes:
+      - /portainer/Files/AppData/Config/FiveFilters:/data
+    ports:
+      - "8190:80"
+
