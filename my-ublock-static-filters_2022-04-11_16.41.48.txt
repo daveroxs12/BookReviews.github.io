@@ -1,0 +1,387 @@
+! 2021-12-02 https://www.blinkist.com
+www.blinkist.com##.modal--cookie-banner.modal--grey-pale.modal--rounded-border.modal
+
+! 2021-12-02 https://twitter.com
+twitter.com##.r-ipm5af.r-zchlnj.r-1xcajam.r-1d2f490.r-1p0dtai.r-1ffj0ar.css-1dbjc4n
+
+!Twitch
+twitch.tv##+js(twitch-videoad)
+
+! 2021-12-20 https://www.history.com
+||www.history.com/player/21153172?autoplay=false$subdocument
+
+! 2022-03-16 https://newrepublic.com
+||images.newrepublic.com/dc55296ba68bfa250c2ef76c081b5ea35f9a48c8.png?auto=compress&q=65&ixlib=react-9.0.*$image
+||images.newrepublic.com/dc55296ba68bfa250c2ef76c081b5ea35f9a48c8.png?auto=compress&q=65&ixlib=react-9.0.*$image
+newrepublic.com##.paywallTemplate__ctaSubscribe
+newrepublic.com##.paywallTemplate__header
+newrepublic.com##.paywallTemplate__ctaSignin
+newrepublic.com##.magazine.paywallTemplate
+newrepublic.com##.paywall__inner
+newrepublic.com##.subscribers.center.paywall
+
+! 2022-03-20 https://pcmac.biz
+||pcmac.biz/wp-content/uploads/2020/05/Modern-Restaurant-Facebook-Cover.jpg$image
+||pcmac.biz/wp-content/uploads/2020/05/Modern-Restaurant-Facebook-Cover.jpg$image
+||pcmac.biz/wp-content/uploads/2019/11/yt.gif$image
+||pcmac.biz/wp-content/uploads/2021/09/Stellar-*.png$image
+pcmac.biz##center > p
+||www.youtube.com/embed/Cp37AU-5USI$subdocument
+pcmac.biz##section > div > kbd
+pcmac.biz##ins > section > div > div > div
+
+! 2022-03-30 https://m3a.vhlcentral.com
+
+! 2022-04-02 https://www.nybooks.com
+www.nybooks.com##.position-relative.pt-xs-3.pb-xs-3
+www.nybooks.com##.mb-xs-12.inline-banner-ad.flex-column.d-flex.ad-spacing
+
+! 2022-04-02 https://www.forbes.com
+||thumbor.forbes.com/thumbor/75x0/i.forbesimg.com/media/assets/logos/f-gray.png$image
+||thumbor.forbes.com/thumbor/75x0/i.forbesimg.com/media/assets/logos/f-gray.png$image
+||thumbor.forbes.com/thumbor/75x0/i.forbesimg.com/media/assets/logos/f-gray.png$image
+www.forbes.com##.right-rail
+www.forbes.com##.left-rail
+||buy.tinypass.com/checkout/offer/show?displayMode=modal&templateId=OTBRWYO3WM90&templateVariantId=OTVH4R48HN3VS&offerId=OFCOOCDS3DX3&formNameByTermId=%7B%7D&hideCompletedFields=true&showCloseButton=false&experienceId=EXZJ3PTI7927&activeMeters=%5B%7B%22meterName%22%3A%22Paywall%22%2C%22views%22%3A4%2C%22viewsLeft%22%3A0%2C%22maxViews%22%3A4%2C%22totalViews%22%3A5%7D%5D&widget=offer&iframeId=offer-0-VOw3Z&url=https%3A%2F%2Fwww.forbes.com%2Fsites%2Fzacharysmith%2F2022%2F04%2F01%2Fjudge-declines-to-dismiss-ghislaine-maxwell-conviction-saying-juror-had-no-bias%2F%3Fsh%3D4fcdfe643e13&parentDualScreenLeft=0&parentDualScreenTop=0&parentWidth=1440&parentHeight=680&parentOuterHeight=900&aid=Yj2fRrCPpu&pianoIdUrl=https%3A%2F%2Fauth.forbes.com%2Fid%2F&userProvider=piano_id&userToken=&customCookies=%7B%22_pc_meter_expiration%22%3A%22expired%22%7D&hasLoginRequiredCallback=true&initMode=context&width=1440&_qh=97bccfb772$subdocument
+www.forbes.com##.tp-modal
+www.forbes.com##.tp-active.tp-backdrop
+
+! 2022-04-02 https://jacobinmag.com
+jacobinmag.com##.bn-at__container
+
+! 2022-04-02 https://newleftreview.org
+newleftreview.org##div.sidebar__panel:nth-of-type(2)
+newleftreview.org##div.sidebar__panel:nth-of-type(4)
+
+! 2022-04-02 https://harpers.org
+harpers.org##.current-issue-text > .subscribe-cta-inline > div.paywall-aux > .subscribe-text
+||harpers.org/wp-content/uploads/2022/04/HA0422_0C1CS_001.png$image
+harpers.org##.current-issue > .inner
+
+! 2022-04-02 https://www.theatlantic.com
+www.theatlantic.com##.Magazine_grid__16G8U
+www.theatlantic.com##.Magazine_button__865uX
+
+! 2022-04-02 https://democracyjournal.org
+democracyjournal.org##.subscribe > header > h1
+democracyjournal.org##.subscribe > main
+democracyjournal.org##.donate > header > h1
+democracyjournal.org##.clearfix.action > .donate
+democracyjournal.org##.clearfix.action
+
+! 2022-04-02 https://newrepublic.com
+||blink.net/iframe.html$subdocument
+
+! 2022-04-02 https://www.nybooks.com
+www.nybooks.com##.pt-lg-10.pt-xs-6.color-white.bg-black > .container > .row > div.col-lg-6.col-12
+www.nybooks.com##.slideshow-wrapper.pb-xs-9.pt-xs-9.bg-yellow.subscribe-cta
+www.nybooks.com##.mb-lg-12.mb-xs-9.w-100.shop-cta > .container > .row > .col-lg-4.col-12
+www.nybooks.com##.mb-lg-12.mb-xs-9.w-100.shop-cta > .container > .row
+
+! 2022-04-02 https://quillette.com
+quillette.com##.c-subscribe
+quillette.com##.c-btn--secondary.c-btn--full.c-btn
+quillette.com##.gh-portal-triggerbtn-iframe
+
+! 2022-04-02 https://jewishcurrents.org
+jewishcurrents.org##.xl\:pr-16.md\:pr-8.md\:pb-0.pb-8.font-sans.xl\:leading-tighter.leading-tighter.xl\:text-3xl.lg\:text-2xl.text-xl.flex-none.xl\:max-w-xl.md\:max-w-lg.md\:w-1\/2 > .grey-underline
+
+! 2022-04-02 https://tomdispatch.com
+||tomdispatch.com/wp-content/uploads/2020/10/bg-cta-2-300x129.jpg$image
+||tomdispatch.com/wp-content/uploads/2020/10/bg-cta-2-300x129.jpg$image
+tomdispatch.com##.cta-widget.widget.widget-2.widget-even
+
+! 2022-04-02 https://nationalinterest.org
+nationalinterest.org##.latest__content
+nationalinterest.org##.latest__wrap
+nationalinterest.org###block-views-issues-latest
+
+! 2022-04-02 https://nautil.us
+nautil.us##.article-bottom-subscribe_box
+
+! 2022-04-02 https://www.washingtonpost.com
+www.washingtonpost.com##.ma-0.truncate
+www.washingtonpost.com##.va-m.dib-ns.btn-sm.btn-blue.focus-bc-gray-darkest-alpha-50.bc-transparent.white.focus-bg-blue-dark.hover-bg-blue-dark.bg-blue.header-nav-button-font-size.b-solid.bw.font-bold.brad-2.pb-xxs.pr-sm.pl-sm.pt-xxs.dib.lh-default.border-box.center.font-xxs.ease-in-out.duration-400.transition-color
+
+! 2022-04-02 https://www.democracynow.org
+www.democracynow.org##.daily_digest_modal_content
+www.democracynow.org##.daily_digest_modal_wrapper
+||assets.democracynow.org/assets/appeal_background-179af0d110ddcf53242f1b9d019a84d1bfa76650f586a7650f7897e841e385f9.jpg$image
+||assets.democracynow.org/assets/appeal_background-179af0d110ddcf53242f1b9d019a84d1bfa76650f586a7650f7897e841e385f9.jpg$image
+||assets.democracynow.org/assets/appeal_background-179af0d110ddcf53242f1b9d019a84d1bfa76650f586a7650f7897e841e385f9.jpg$image
+||assets.democracynow.org/assets/appeal_background-179af0d110ddcf53242f1b9d019a84d1bfa76650f586a7650f7897e841e385f9.jpg$image
+||assets.democracynow.org/assets/appeal_background-179af0d110ddcf53242f1b9d019a84d1bfa76650f586a7650f7897e841e385f9.jpg$image
+
+=
+www.democracynow.org##.hidden-xs.col-md-6.col-sm-6.col-lg-5
+||assets.democracynow.org/assets/appeal_background-179af0d110ddcf53242f1b9d019a84d1bfa76650f586a7650f7897e841e385f9.jpg$image
+||assets.democracynow.org/assets/appeal_background-179af0d110ddcf53242f1b9d019a84d1bfa76650f586a7650f7897e841e385f9.jpg$image
+||assets.democracynow.org/assets/appeal_background-179af0d110ddcf53242f1b9d019a84d1bfa76650f586a7650f7897e841e385f9.jpg$image
+www.democracynow.org##.visible-lg-block.container-fluid > .button_blue.donate
+www.democracynow.org##.text
+www.democracynow.org##h2
+
+
+! 2022-04-02 https://www.cnn.com
+www.cnn.com##.zn--idx-11.zn-ondemand.zn-loaded.zn-has-15-containers.zn-has-multiple-containers.t-light.zn--ordinary.zn-balanced.zn-homepage4-zone-6.zn
+www.cnn.com###homepage3-zone-1 > .zn__background--content-relative.l-container > .zn-header > .zn-header__text
+www.cnn.com###homepage3-zone-1 > .zn__background--content-relative.l-container > .zn__containers
+www.cnn.com##.cn--expandable.cn-coverageContainer_6CE44821-A427-1A1C-57A8-EE10F2E9E229.cn--idx-2.cn-list-xs.cn > .cn__title
+www.cnn.com##.cd--has-siblings.cd--extra-small.cd--idx-0.cd--hyperlink.cd--card.cd > .cd__wrapper > .cd__content > .cd__headline > [href]
+www.cnn.com##.cn--expandable.cn-coverageContainer_6CE44821-A427-1A1C-57A8-EE10F2E9E229.cn--idx-2.cn-list-xs.cn > li > .cd--has-siblings.cd--extra-small.cd--idx-2.cd--hyperlink.cd--card.cd > .cd__wrapper > .cd__content
+www.cnn.com##.cn--expandable.cn-coverageContainer_6CE44821-A427-1A1C-57A8-EE10F2E9E229.cn--idx-2.cn-list-xs.cn > li > .cd--has-siblings.cd--extra-small.cd--idx-1.cd--hyperlink.cd--card.cd > .cd__wrapper > .cd__content
+www.cnn.com###homepage4-zone-2 > .zn__background--content-relative.l-container > .zn-header > .zn-header__text
+www.cnn.com##.zn--idx-8.zn-ondemand.zn-loaded.zn-has-one-container.t-light.zn--ordinary.zn-balanced.zn-homepage4-zone-3.zn
+www.cnn.com###homepage4-zone-2 > .zn__background--content-relative.l-container > .zn__containers > .zn__column--idx-0.column
+www.cnn.com##.zn--idx-7.zn-ondemand.zn-loaded.zn-has-one-container.t-light.zn--ordinary.zn-balanced.zn-homepage4-zone-2.zn
+
+! 2022-04-02 https://www.huffpost.com
+www.huffpost.com##.js-cet-subunit.zone--commerce1.zone--commerce.zone > .zone__title > .zone__title__text
+www.huffpost.com###zone-commerce
+
+! 2022-04-02 https://www.thenation.com
+www.thenation.com###sailthrruForm h1
+www.thenation.com##center
+
+! 2022-04-02 https://www.thetimes.co.uk
+www.thetimes.co.uk##.css-vd26up
+www.thetimes.co.uk##.css-qx4rj3
+www.thetimes.co.uk##.css-1pd14be
+
+! 2022-04-02 https://www.motherjones.com
+www.motherjones.com##[href="https://secure.motherjones.com/flex/mj/key/7LIGHTB/src/7EGP001|PEGP001"] > .donate
+www.motherjones.com###mj-nonprofit-tagline
+www.motherjones.com##.col-8.subscribe-donate
+www.motherjones.com###homepage-donation-promo > div
+
+! 2022-04-02 https://theweek.com
+theweek.com##.-home.-full-width.polaris__subscription > .polaris__subscription--container > .polaris__subscription--image
+theweek.com##.-home.-full-width.polaris__subscription > .polaris__subscription--container
+
+! 2022-04-02 https://www.spectator.co.uk
+www.spectator.co.uk##.HouseSlotSubscriptionBanner-module__container__inner-nav-banner.HouseSlotSubscriptionBanner-module__container__inner--small
+
+! 2022-04-02 https://www.haaretz.com
+www.haaretz.com##.pw.pv.pu.pt.ps.pr.pq.pp.po.pn.pm.pl.pk.pj.pi.ph.pg.pf.pe.pd.ns.nu.pc.jc.ah.ag.af.ae.iv.f.t.s
+www.haaretz.com##.apm.apl.hv.e.ap.apk.ri.rh.apj.rf.re.aoe.abf.abe.wl.wk.qz.api.qy.i.qx.qw.qv.qu.qt.qs.qr.aph.h.apg.qn.apf.ape.apd.hs.ak.a
+www.haaretz.com##[href="https://www.haaretz.com/haaretz-labels/1.10576839"] > .ft.fs.aly.afo.op.oo.kv.ku.kt.ks.cs.cu.kr.kq.cw.kw.hj
+||img.haarets.co.il/img/1.10696997/3825284472.jpg?precrop=2219,1288,x0,y207&height=*&width=*$image
+||img.haarets.co.il/img/1.10696997/3825284472.jpg?precrop=2219,1288,x0,y207&height=*&width=*$image
+www.haaretz.com##.aoy.aox.aow.aov.aou.aot.aos.aor.aoq.aop.aoo.aon.cu.kq.ku.cs.aom.cw.aol.vl.ci.aok.cg.aoj.ck.aoi.q.aoh.tv.tu.aog.ty.tx.p.aof.jc.ix.aoe.f > .apc.apb.apa.aoz.ahy.gy.jc.ah.ag.af.ae.ge.f.t.s
+www.haaretz.com##.aoy.aox.aow.aov.aou.aot.aos.aor.aoq.aop.aoo.aon.cu.kq.ku.cs.aom.cw.aol.vl.ci.aok.cg.aoj.ck.aoi.q.aoh.tv.tu.aog.ty.tx.p.aof.jc.ix.aoe.f
+www.haaretz.com##.ya.xz.xy.xx.xw.xv.xu.xt.xs.xr.xq.xp.xo.xn.xm.xl.xk.xj.xi.xh.vx.vz.xg.mx.ag.af.ae.ac.hy.f.z.y
+www.haaretz.com##.aur.rb.ib.e.ba.auq.og.of.aup.od.oc.pq.aif.lb.aer.aeq.nz.auo.ny.j.nx.nw.nv.nu.nt.ns.nr.aun.i.aum.ew.aul.auk.auj.ia.aw.a
+www.haaretz.com##.afd.aug.auf.ant.afb.avn.pq.f.ah.mx > .fw.fv.fu.arr.all.avl.wu.wt.pa > [href] > .fv.fu.arr.all.wu.wt.pe.ao.pd.pc.an.aq.pb.ap.al.kd.hh
+www.haaretz.com##[href="https://www.haaretz.com/haaretz-labels/1.10696454"] > .oz.f.ah.oy.ox
+www.haaretz.com##.afd.aug.auf.ant.afb.avn.pq.f.ah.mx > .fw.fv.fu.arr.all.avl.wu.wt.pa
+www.haaretz.com##[href="https://www.haaretz.com/haaretz-labels/1.10696454"] > .fv.fu.arr.all.wu.wt.pe.ao.pd.pc.an.aq.pb.ap.al.bp.hh
+www.haaretz.com##.cc.aq.ap.ao.an.am.al.qd.ah.fw.bjq.ue.bjp.bjo.bjn.bjm.bjl.bo.a.qs
+www.haaretz.com##.afd.aug.auf.ant.afb.avn.pq.f.ah.mx
+www.haaretz.com##.aue.aud.qo.qn.qm.ql.auc.aub.qi.qh.qg.qf.aq.ap.ao.an.am.al.aua.qc.cr.qb.cp.qa.ct.atz.ah.aty.px.pw.atx.pu.pt.o.atw.mx.sm.pq.f > .aui.auh.aug.auf.ant.fh.mx.ag.af.ae.ac.gg.f.z.y
+www.haaretz.com##.aue.aud.qo.qn.qm.ql.auc.aub.qi.qh.qg.qf.aq.ap.ao.an.am.al.aua.qc.cr.qb.cp.qa.ct.atz.ah.aty.px.pw.atx.pu.pt.o.atw.mx.sm.pq.f
+www.haaretz.com##.as.abs.abr.bfg.bff.fg.bfe.bfd.bfc.bfb.bfa.aj.atw.zn.ay.pq.v.lo.abq.bc
+www.haaretz.com##.awm.awl.awk.awj.vz.xg.vx.so.mx.ag.af.ae.ac.gg.f.z.y
+www.haaretz.com##.apm.hv.e.ap.p.ri.rh.apj.rf.re.ge.mq.mp.rd.rc.rb.ra.qz.qy.i.qx.qw.qv.qu.qt.qs.qr.aph.h.qo.qn.qm.ape.hs.ak.a
+www.haaretz.com##.arj.ari.arh.arg.nu.pc.ns.iz.jc.ah.ag.af.ae.ge.f.t.s
+||img.haarets.co.il/img/1.10711682/1006131979.jpg?precrop=2448,1632,x0,y0&height=*&width=*$image
+www.haaretz.com##.arl.apv.ark.apu.jc .aoy.aox.aow.aov.aou.aot.aos.aor.aoq.aop.aoo.aon.cu.kq.ku.cs.aom.cw.aol.vl.ci.aok.cg.aoj.ck.aoi.q.aoh.tv.tu.aog.ty.tx.p.jc.ix.aoe.f > .apc.apb.apa.aoz.ahy.gy.jc.ah.ag.af.ae.ge.f.t.s > .aqg.wz.apa.aoz.ahy.aqf.wx.aqe.aoe.f.q.jc > .ft.fs.aly.afo.aqh.op.oo.kh > [href] > .ft.fs.aly.afo.op.oo.kv.ku.kt.ks.cs.cu.kr.kq.cw.bg.hj
+www.haaretz.com##.arl.apv.ark.apu.jc > div > .aoy.aox.aow.aov.aou.aot.aos.aor.aoq.aop.aoo.aon.cu.kq.ku.cs.aom.cw.aol.vl.ci.aok.cg.aoj.ck.aoi.q.aoh.tv.tu.aog.ty.tx.p.jc.ix.aoe.f > .apc.apb.apa.aoz.ahy.gy.jc.ah.ag.af.ae.ge.f.t.s > .wz.apa.aoz.ahy.wx.aqk.aoe.f.q.jc > .bt.fu.ber.lh.beq.bep.beo.ben.bem.bf.a.apn
+www.haaretz.com##.arl.apv.ark.apu.jc > div > .aoy.aox.aow.aov.aou.aot.aos.aor.aoq.aop.aoo.aon.cu.kq.ku.cs.aom.cw.aol.vl.ci.aok.cg.aoj.ck.aoi.q.aoh.tv.tu.aog.ty.tx.p.jc.ix.aoe.f > .apc.apb.apa.aoz.ahy.gy.jc.ah.ag.af.ae.ge.f.t.s > .wz.apa.aoz.ahy.wx.aqk.aoe.f.q.jc > .fu.ft.fs.aly.afo.aqh.op.oo.kh > [href="https://www.haaretz.com/haaretz-labels/1.10649143"] > .ft.fs.aly.afo.op.oo.kv.ku.kt.ks.cs.cu.kr.kq.cw.kw.hj
+www.haaretz.com##.arl.apv.ark.apu.jc > div > .aoy.aox.aow.aov.aou.aot.aos.aor.aoq.aop.aoo.aon.cu.kq.ku.cs.aom.cw.aol.vl.ci.aok.cg.aoj.ck.aoi.q.aoh.tv.tu.aog.ty.tx.p.jc.ix.aoe.f > .apc.apb.apa.aoz.ahy.gy.jc.ah.ag.af.ae.ge.f.t.s > .aqg.wz.apa.aoz.ahy.aqf.wx.aqe.aoe.f.q.jc > .bt.cu.kq.ku.cs.aom.cw.bes.q.fu.ber.lh.beq.bep.beo.ben.bem.bf.a.apn > .bet.bz.q > .a > .a
+www.haaretz.com##.arl.apv.ark.apu.jc .aoy.aox.aow.aov.aou.aot.aos.aor.aoq.aop.aoo.aon.cu.kq.ku.cs.aom.cw.aol.vl.ci.aok.cg.aoj.ck.aoi.q.aoh.tv.tu.aog.ty.tx.p.jc.ix.aoe.f > .apc.apb.apa.aoz.ahy.gy.jc.ah.ag.af.ae.ge.f.t.s > .aqg.wz.apa.aoz.ahy.aqf.wx.aqe.aoe.f.q.jc > .ka.q.jz > [href] > .kd.f.q.kc.kb
+www.haaretz.com##.arl.apv.ark.apu.jc > div > .aoy.aox.aow.aov.aou.aot.aos.aor.aoq.aop.aoo.aon.cu.kq.ku.cs.aom.cw.aol.vl.ci.aok.cg.aoj.ck.aoi.q.aoh.tv.tu.aog.ty.tx.p.jc.ix.aoe.f > .apc.apb.apa.aoz.ahy.gy.jc.ah.ag.af.ae.ge.f.t.s > .wz.apa.aoz.ahy.wx.aqk.aoe.f.q.jc > .fu.ft.fs.aly.afo.aqh.op.oo.kh
+www.haaretz.com##.arl.apv.ark.apu.jc > div > .aoy.aox.aow.aov.aou.aot.aos.aor.aoq.aop.aoo.aon.cu.kq.ku.cs.aom.cw.aol.vl.ci.aok.cg.aoj.ck.aoi.q.aoh.tv.tu.aog.ty.tx.p.jc.ix.aoe.f > .apc.apb.apa.aoz.ahy.gy.jc.ah.ag.af.ae.ge.f.t.s > .wz.apa.aoz.ahy.wx.aqk.aoe.f.q.jc
+www.haaretz.com##.arl.apv.ark.apu.jc > div > .aoy.aox.aow.aov.aou.aot.aos.aor.aoq.aop.aoo.aon.cu.kq.ku.cs.aom.cw.aol.vl.ci.aok.cg.aoj.ck.aoi.q.aoh.tv.tu.aog.ty.tx.p.jc.ix.aoe.f > .apc.apb.apa.aoz.ahy.gy.jc.ah.ag.af.ae.ge.f.t.s
+www.haaretz.com##.avm.vj.avl.avk.vg.avj.aqd.avi.avh.aqc.avg.qc.avf.qb.ave.avd.pz.xf.avc.jc.ah.ag.af.ae.ge.f.t.s
+||gif.haarets.co.il/image/fetch/w_227,h_112,c_crop/q_auto,h_98,w_227,c_fill,f_auto/fl_lossy.any_format.preserve_transparency.progressive:none/https://www.haaretz.co.il/polopoly_fs/1.10608934!/image/2871502943.gif$image
+www.haaretz.com##.pp.po.pn.pm.pl.pk.pj.pi.ph.pg.pf.pe.pd.pc.pb.pa.oz.oy.ox.ow.ns.nu.ov.jc.ah.ag.af.ae.iv.f.t.s
+www.haaretz.com##.aph.apg.hv.e.ap.apf.rb.ra.ape.qy.qx.anz.zz.zy.wf.we.qs.apd.qr.i.qq.qp.qo.qn.qm.ql.qk.apc.h.apb.qg.apa.aoz.aoy.hs.ak.a
+||img.haarets.co.il/img/1.10712049/2543527085.jpeg?precrop=1600,1067,x0,y0&height=*&width=*$image
+www.haaretz.com##[href="https://www.haaretz.com/haaretz-labels/1.10576839"] > .ft.fs.alt.afi.op.oo.kv.ku.kt.ks.cs.cu.kr.kq.cw.kw.hj
+||img.haarets.co.il/img/1.10712049/2543527085.jpeg?precrop=1600,1067,x0,y0&height=*&width=*$image
+www.haaretz.com##.wt.aov.aou.ahs.wr.aqe.anz.f.q.jc > .bt.fu.bel.lh.bek.bej.bei.beh.beg.bf.a.api
+||img.haarets.co.il/img/1.10712049/2543527085.jpeg?precrop=1600,1067,x0,y0&height=*&width=*$image
+www.haaretz.com##[href="https://www.haaretz.com/haaretz-labels/1.10690929"] > .ft.fs.alt.afi.op.oo.kv.ku.kt.ks.cs.cu.kr.kq.cw.bg.hj
+www.haaretz.com##.wt.aov.aou.ahs.wr.aqe.anz.f.q.jc > .fu.ft.fs.alt.afi.aqc.op.oo.kh
+www.haaretz.com##.aqb.wt.aov.aou.ahs.aqa.wr.apz.anz.f.q.jc
+www.haaretz.com##.aot.aos.aor.aoq.aop.aoo.aon.aom.aol.aok.aoj.aoi.cu.kq.ku.cs.aoh.cw.aog.vf.ci.aof.cg.aoe.ck.aod.q.aoc.tp.to.aob.ts.tr.p.aoa.jc.ix.anz.f > .aox.aow.aov.aou.ahs.gy.jc.ah.ag.af.ae.ge.f.t.s
+www.haaretz.com##.ard.arc.arb.ara.nu.ov.ns.iz.jc.ah.ag.af.ae.ge.f.t.s
+www.haaretz.com##.avg.vd.avf.ave.va.avd.apy.avc.avb.apx.ava.pv.auz.pu.auy.aux.ps.wz.auw.jc.ah.ag.af.ae.ge.f.t.s
+
+! 2022-04-02 https://www.spectator.co.uk
+www.spectator.co.uk##.Home2-module__container > .HouseSlotContainer-module__container__outer > .HouseSlotContainer-module__container__inner > .HouseSlotSubscriptionBanner-module__container__outer--theme-dark-blue.HouseSlotSubscriptionBanner-module__container__outer--small.HouseSlotSubscriptionBanner-module__container__outer > .HouseSlotSubscriptionBanner-module__container__inner--small
+www.spectator.co.uk##.HouseSlotSubscriptionBanner-module__container__outer--theme-dark-blue.HouseSlotSubscriptionBanner-module__container__outer--large.HouseSlotSubscriptionBanner-module__container__outer
+
+! 2022-04-02 https://www.jpost.com
+www.jpost.com###linkPremium
+www.jpost.com##.margin-container-body > .margin-container-body-text
+
+! 2022-04-02 https://www.richardsilverstein.com
+www.richardsilverstein.com##.custom-html-widget.textwidget > form > input
+www.richardsilverstein.com##.widget-wrap.widget_text > .widgettitle.widget-title
+www.richardsilverstein.com##.hwp-show.chat.hwp-bottomright.holler-box
+
+! 2022-04-02 https://www.seattletimes.com
+www.seattletimes.com##.native-block.explore-block.explore-quintuplets.five-col-explore
+www.seattletimes.com##.native-promo.explore-block.explore-promo
+
+! 2022-04-02 https://www.newsday.com
+www.newsday.com##.ad_top__OVens.ad_ad__3q0Ak.ad_full-banner__7KJ4Q
+www.newsday.com##.bb1.ad_midPg__vKnGR.ad_ad__3q0Ak.ad_full-banner__7KJ4Q
+www.newsday.com##.ad_cube-ad__YFnqM.ad_ad__3q0Ak
+www.newsday.com##.primary > .ad_midPg__vKnGR.ad_ad__3q0Ak.ad_full-banner__7KJ4Q
+www.newsday.com##.bottom.ad_ad__3q0Ak.ad_full-banner__7KJ4Q
+
+! 2022-04-02 https://www.tabletmag.com
+www.tabletmag.com##.mxauto.inner-content-max-width.NewsletterWidget--style-full-width
+
+! 2022-04-02 https://www.indiatoday.in
+||akm-img-a-in.tosshub.com/sites/test/ipl/2022/index.html?site=it&device=web&v=1.10$subdocument
+
+! 2022-04-02 https://www.nytimes.com
+www.nytimes.com###comments-speech-bubble-footer > .css-jyqt2x
+www.nytimes.com###comments-speech-bubble-bigBottom
+www.nytimes.com##.epkadsg3.css-1j2g5xc.related-links-block
+www.nytimes.com###comments-speech-bubble-header > .css-jyqt2x
+
+! 2022-04-02 https://www.washingtonpost.com
+www.washingtonpost.com##.center.brad-4.relative.border-box
+www.washingtonpost.com##.paywall-overlay.overflow-auto.bottom-0.right-0.left-0.fixed
+www.washingtonpost.com##.pointer.pb-0.pt-0.h-md.pr-md.pl-md.brad-lg.hide-for-print.comments.focus-bc-gray-darkest-alpha-50.hover-bc-gray-light.bc-gray-light.bw.b-solid.offblack.focus-bg-gray-lighter.hover-bg-gray-lighter.bg-white.antialiased.font-bold.font-sans-serif.ease-in-out.duration-200.transition-colors.min-w-btn.border-box.overflow-hidden.lh-md.justify-center.items-center.inline-flex
+www.washingtonpost.com##.justify-between-ns.flex-ns-row.flex-column.flex
+www.washingtonpost.com##.pointer.pb-0.pt-0.h-md.pr-md.pl-md.brad-lg.mb-sm.focus-bc-black.bc-transparent.bw.b-solid.white.focus-bg-gray-darker.hover-bg-gray-darker.bg-offblack.antialiased.font-bold.font-sans-serif.ease-in-out.duration-200.transition-colors.min-w-btn.border-box.overflow-hidden.lh-md.justify-center.items-center.inline-flex
+||talk.washingtonpost.com/embed/stream?storyURL=https%3A%2F%2Fwww.washingtonpost.com%2Fnational-security%2F2022%2F04%2F01%2Firan-nuclear-deal-terrorism%2F&v=6.16.2&ts=1648899000000&initialWidth=640&childId=comments&parentTitle=Iran%20nuclear%20talks%20at%20stalemate%20over%20terrorism%20issue%20-%20The%20Washington%20Post&parentUrl=https%3A%2F%2Fwww.washingtonpost.com%2Fnational-security%2F2022%2F04%2F01%2Firan-nuclear-deal-terrorism%2F$subdocument
+||talk.washingtonpost.com/embed/stream?storyURL=https%3A%2F%2Fwww.washingtonpost.com%2Fnational-security%2F2022%2F04%2F01%2Firan-nuclear-deal-terrorism%2F&v=6.16.2&ts=1648899000000&initialWidth=640&childId=comments&parentTitle=Iran%20nuclear%20talks%20at%20stalemate%20over%20terrorism%20issue%20-%20The%20Washington%20Post&parentUrl=https%3A%2F%2Fwww.washingtonpost.com%2Fnational-security%2F2022%2F04%2F01%2Firan-nuclear-deal-terrorism%2F$subdocument
+www.washingtonpost.com##.z-1.absolute > rect
+
+! 2022-04-02 https://www.spanishdict.com
+www.spanishdict.com##._3-1LsKuy
+www.spanishdict.com##._3_oaIw0N.ReactModal__Overlay--after-open.ReactModal__Overlay
+
+! 2022-04-02 https://www.npr.org
+www.npr.org##.navigation__donate
+www.npr.org##.navigation__shop > [href="https://shop.npr.org"]
+www.npr.org##li.npr-footer__item > [href="/diversity/"]
+
+! 2022-04-02 https://time.com
+time.com##.mag-subs-inner
+
+! 2022-04-02 https://thehill.com
+thehill.com##div.header-highlighted-area__container:nth-of-type(2)
+thehill.com##.homepage__container__hillstore
+thehill.com##.homepage__container > .mobile-full-bleed.\|.homepage__container__header
+thehill.com##div.col-full:nth-of-type(7)
+
+! 2022-04-02 https://mondoweiss.net
+mondoweiss.net##[href="https://mondoweiss.net/donate"]
+mondoweiss.net###mondo-ads-1851795032 > .mondo-ads-adlabel
+
+! 2022-04-02 https://www.mintpressnews.com
+www.mintpressnews.com##.bg-black.site-inner.citizen-activist
+
+! 2022-04-02 https://jstreet.org
+jstreet.org##.modal-secondary
+
+! 2022-04-02 https://www.window-swap.com
+www.window-swap.com##.alert-body-1.modal-body
+www.window-swap.com##.button-1
+
+! 2022-04-03 https://www.wsj.com
+www.wsj.com##.emzRNA.NewsletterSignup__NewsletterContainer-sc-fghmn4-2
+
+! 2022-04-04 https://getpocket.com
+getpocket.com##.f12zkraf
+
+! 2022-04-04 https://www.instapaper.com
+www.instapaper.com##.flash_info.flash
+www.instapaper.com##.js_galog.open_modal.instapaper_premium > [href="javascript:void(0);"]
+www.instapaper.com##p
+
+! 2022-04-04 https://duckduckgo.com
+duckduckgo.com##span.text_promo--text.text_promo--part:nth-of-type(1)
+duckduckgo.com##span.text_promo--text.text_promo--part:nth-of-type(3)
+duckduckgo.com##.header--text_promo.text_promo
+
+! 2022-04-04 https://www.palestinechronicle.com
+www.palestinechronicle.com###donate_box
+www.palestinechronicle.com##.current.blocker.jquery-modal
+www.palestinechronicle.com##div.l-header:nth-of-type(3)
+www.palestinechronicle.com##.header-left.col
+www.palestinechronicle.com##q
+www.palestinechronicle.com##.header-right.col
+
+! 2022-04-04 https://www.independent.co.uk
+www.independent.co.uk##.ldphqt.sc-jaIaHg > div.taboola-excluded.article-default.article.cNbHtI.sc-hCDzWh > .content
+||static.independent.co.uk/2022/03/03/17/newFile-10.jpg?quality=50&width=*&auto=webp$image
+www.independent.co.uk##.ldphqt.sc-jaIaHg
+
+! 2022-04-04 https://www.laphamsquarterly.org
+||www.laphamsquarterly.org ###subscribe-now
+
+! 2022-04-04 https://www.reddit.com
+www.reddit.com##._1ph1IkMoPsBwo5F5FlxxD._2Bejocqb-InO8686E2ehf
+www.reddit.com##._1acwN_tUhJ8w-n7oCp-Aw3._199HcTqT2ANvw-1B0onPUa._1DK52RbaamLOWw5UPaht_S
+
+! 2022-04-05 http://audiobookbay.fi
+audiobookbay.fi##.yellow
+||audiobookbay.fi/images/fr.jpg$image
+||audiobookbay.fi/images/bin.jpg$image
+
+! 2022-04-05 https://www.newsweek.com
+www.newsweek.com##.subscribe_url > .pelcro-subscribe-button
+
+! 2022-04-05 https://www.democracynow.org
+
+! 2022-04-06 https://mopiez.com
+||i0.wp.com/image.tmdb.org/t/p/w780/dvg16MbkjGVApi4ivfQ8F1zTr2d.jpg$image
+||i0.wp.com/image.tmdb.org/t/p/original/dvg16MbkjGVApi4ivfQ8F1zTr2d.jpg$image
+||i0.wp.com/image.tmdb.org/t/p/w780/dvg16MbkjGVApi4ivfQ8F1zTr2d.jpg$image
+
+! 2022-04-06 https://www.bestnetflixmovies.com
+www.bestnetflixmovies.com##.hoOcbG0CqpjS
+www.bestnetflixmovies.com##.hoOcbG0CqpjS-bg
+
+! 2022-04-06 https://www.twitch.tv
+!www.twitch.tv##.prime-offers.jMIEhW.Layout-sc-nxg1ff-0 > .dWAnXP.Layout-sc-nxg1ff-0 .gcUMwz.InjectLayout-sc-588ddc-0 .gPJqzY.ScButtonIcon-sc-o7ndmn-0.boGviw.ScCoreButton-sc-1qn4ixc-0
+
+! 2022-04-06 https://www.democracynow.org
+||assets.democracynow.org/assets/appeal_background-179af0d110ddcf53242f1b9d019a84d1bfa76650f586a7650f7897e841e385f9.jpg$image
+||assets.democracynow.org/assets/appeal_background-179af0d110ddcf53242f1b9d019a84d1bfa76650f586a7650f7897e841e385f9.jpg$image
+
+! 2022-04-06 https://aeon.co
+||aeon.co/images/sprite-1.png$image
+||aeon.co/images/sprite-1.png$image
+
+! 2022-04-09 https://www.photopea.com
+||www.photopea.com/img/pp_tall.png$image
+
+! 2022-04-09 https://americanaffairsjournal.org
+americanaffairsjournal.org##.is-at-top.is-anchored.sticky.paywall-notification-bar
+americanaffairsjournal.org##.callout
+
+! 2022-04-10 http://plagiarisma.net
+plagiarisma.net##[href="http://plagiarisma.net/donation.php"]
+plagiarisma.net##div > h2 > span
+
+! 2022-04-11 https://www.washingtonpost.com
+www.washingtonpost.com##.adpsxm_ifroozhb- > div
+www.washingtonpost.com##.adpsxm_ifroozhb-
+www.washingtonpost.com##.-yusfclhliavrjr-jucg > div
+www.washingtonpost.com##.-yusfclhliavrjr-jucg
+www.washingtonpost.com##.sgryamzvmwpjoxjl > div
+
+! 2022-04-12 http://192.168.1.159:5002
+192.168.1.159##td > div > div
+||mcusercontent.com/10ba00461a63ee91d9ba58b70/images/7062c258-6d1a-863d-3072-18bd32400dcc.png$image
+||mcusercontent.com/10ba00461a63ee91d9ba58b70/images/7062c258-6d1a-863d-3072-18bd32400dcc.png$image
+||mcusercontent.com/10ba00461a63ee91d9ba58b70/images/364f0a2a-bc3f-1001-7157-06b927e33709.gif$image
+||mcusercontent.com/10ba00461a63ee91d9ba58b70/images/364f0a2a-bc3f-1001-7157-06b927e33709.gif$image
+
+!100.93.142.110:5002
+100.93.142.110###td > div > div
+
+! 2022-04-12 https://claremontreviewofbooks.com
+claremontreviewofbooks.com##.comp__newsletter--default.comp__newsletter
+claremontreviewofbooks.com##.section-subscribe-col
+claremontreviewofbooks.com##.tpl__section--subscribe.tpl__section > .container > .row
+
