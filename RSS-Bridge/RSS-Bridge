@@ -1,0 +1,9 @@
+version: '2'
+services:
+  rss-bridge:
+    image: rssbridge/rss-bridge:latest
+    volumes:
+      - /portainer/Files/AppData/Config/RSS-Bridge/config:/config
+    ports:
+      - 82:80
+    restart: unless-stopped
