@@ -1,0 +1,19 @@
+version: "3.5"
+services:
+  jellyfin:
+    image: jellyfin/jellyfin
+    container_name: jellyfin
+    user: uid:gid
+    network_mode: "host"
+    volumes:
+      - /portainer/Files/AppData/Config/JellyFin $/config:/config
+      - /portainer/Files/AppData/Config/JellyFin/cache:/cache
+      - /portainer/Files/AppData/Config/JellyFin/Media:/data/Media
+      - /portainer/Files/AppData/Config/JellyFin/Ebooks:/data/Ebooks
+      - /portainer/Files/AppData/Config/JellyFin/Movies:/data/Movies
+      - /portainer/Files/AppData/Config/JellyFin/TV:/data/TV
+      - /portainer/Files/AppData/Config/JellyFin/Videos:/data/Videos
+    restart: "unless-stopped"
+    # Optional - alternative address used for autodiscovery
+    environment:
+      - JELLYFIN_PublishedServerUrl=http://example.com
