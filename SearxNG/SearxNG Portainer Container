@@ -1,0 +1,28 @@
+version: '3.7'
+
+services:
+
+  searxng:
+    container_name: searxng
+    image: searxng/searxng:latest
+    restart: always
+    networks:
+      - searxng
+    volumes:
+      - ./searxng:/etc/searxng:rw
+    environment:
+      - BIND_ADDRESS=0.0.0.0:8080
+      - BASE_URL=https://${DavidsSearxNG-Instance:-davidspi.local}/
+    cap_drop:
+      - ALL
+    cap_add:
+      - CHOWN
+      - SETGID
+      - SETUID
+      - DAC_OVERRIDE
+
+networks:
+  searxng:
+    ipam:
+      driver: default
+
