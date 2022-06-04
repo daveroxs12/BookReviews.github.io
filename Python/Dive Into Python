@@ -1,1 +1,6 @@
 
+Chapter 2 -  Your First Python Program 
+    def buildConnectionString(params): //Declare a function in Python
+       1. Function doesn't specify a return datatype, nor is whether a value is returned specified.
+       2. Every Python function returns a value.
+        A. If the function executes a return value, returns that value; else, the function will return a null value 'NONE' 
