@@ -5,7 +5,7 @@ Chapter 2 -  Your First Python Program
        2. Every Python function returns a value. /
         A. If the function executes a return value, returns that value; else, the function will return a null value 'NONE' 
         
-    Types:
+    Types: be
       Strongly-typed language: Language in which types are always enforced, such as, Python. For instance, if yoy haave an nteger, can't treat
       as a string, without explicitly converting it. 'Strong conversion.'
       
@@ -15,9 +15,16 @@ Chapter 2 -  Your First Python Program
       Dynamically typed language: A language that discovers types at execution time, sych as, Python, which ascertains the variable type when 
       it is assigned. 'Dynamicslly = Discovers'
       
-      Statically-Typed Language: A language in which types are fixed at execution time, such as Java. All variables required to be 
+      Statically-Typed Language: A language in which types arre fixed at execution time, such as Java. All variables required to be 
       declared with type before execurion. 'Statically=Set'
       
-      '
+      Docuemntation: By using a doc string """"Doing""" '''Hi'''
+         MUST BE: First thing defined in a function, after the colon.       
+         
+      Import: Once a module is imported into Python, call it with module.function.
+      
+        __doc__ to request one of the module's attributes. 
+      
+      ^
         
         
