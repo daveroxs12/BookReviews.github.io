@@ -7,16 +7,16 @@ Chapter 2 -  Your First Python Program
         
     Types:
       Strongly-typed language: Language in which types are always enforced, such as, Python. For instance, if yoy haave an nteger, can't treat
-      as a string, without explicitly converting itt.
+      as a string, without explicitly converting it. 'Strong conversion.'
       
       Weakly-Typed Language: A language that disregards type, such as, VBSCcript. For instance, the string '12' can be concatenated with the 
-      e to yield the string '123'
+      e to yield the string '123.' 'Weakly disregards type'
       
       Dynamically typed language: A language that discovers types at execution time, sych as, Python, which ascertains the variable type when 
-      it is assigned.
+      it is assigned. 'Dynamicslly = Discovers'
       
       Statically-Typed Language: A language in which types are fixed at execution time, such as Java. All variables required to be 
-      declared with type before execurion.
+      declared with type before execurion. 'Statically=Set'
       
       '
         
