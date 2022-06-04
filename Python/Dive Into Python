@@ -31,6 +31,16 @@ Chapter 2 -  Your First Python Program
          sys.path.append
          
          
+     Object: Everything in Python is an object. 
+     
+     Connection String: 
+          def buildConnectionString(params):
+              **Build a connection string from a dictionary of parameters
+              
+              return ",".join(["%s=%s" % (k,v) for k,v in params.items
+              
+              """Return String. """"
+         
       
         
         
