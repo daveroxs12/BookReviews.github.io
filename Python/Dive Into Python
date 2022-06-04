@@ -2,5 +2,22 @@
 Chapter 2 -  Your First Python Program 
     def buildConnectionString(params): //Declare a function in Python
        1. Function doesn't specify a return datatype, nor is whether a value is returned specified.
-       2. Every Python function returns a value.
+       2. Every Python function returns a value. /
         A. If the function executes a return value, returns that value; else, the function will return a null value 'NONE' 
+        
+    Types:
+      Strongly-typed language: Language in which types are always enforced, such as, Python. For instance, if yoy haave an nteger, can't treat
+      as a string, without explicitly converting itt.
+      
+      Weakly-Typed Language: A language that disregards type, such as, VBSCcript. For instance, the string '12' can be concatenated with the 
+      e to yield the string '123'
+      
+      Dynamically typed language: A language that discovers types at execution time, sych as, Python, which ascertains the variable type when 
+      it is assigned.
+      
+      Statically-Typed Language: A language in which types are fixed at execution time, such as Java. All variables required to be 
+      declared with type before execurion.
+      
+      '
+        
+        
