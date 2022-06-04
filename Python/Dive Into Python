@@ -23,8 +23,14 @@ Chapter 2 -  Your First Python Program
          
       Import: Once a module is imported into Python, call it with module.function.
       
-        __doc__ to request one of the module's attributes. 
+        __doc__ to request one of the module's attributes. //Returns the built-in doc string n
       
-      ^
+      Library Search: 
+         import sys
+         sys.path
+         sys.path.append
+         
+         
+      
         
         
