@@ -70,6 +70,19 @@ Chapter 3: Native Datatypes:
             
             Append dictionary: To append a dictionary reference by the key value, and supplant it with another value.
             E.g., d['Server'] = 'Michal
+            
+            Dictionary value datetypes: Datatypes can be "mixed and matched" in dictionaries.
+            
+        Deleting Items: del removes individual items from a dictionary by key; clear deletes all items from a dictionary.
+            del d['Server']
+            d.clear()
+            
+    Lists: Hold objects, and expand as needed.
+        Negative List Indices: Accesses the end of the list counting backwards.
+        
+   Example 3.8: Slicing a List:
+        List[1:3] 
+        
     
          
       
