@@ -81,7 +81,12 @@ Chapter 3: Native Datatypes:
         Negative List Indices: Accesses the end of the list counting backwards.
         
    Example 3.8: Slicing a List:
-        List[1:3] 
+        listName[1:3] 
+        Returns: It returns a subset of the list, from the first slice index, and up to, but not including the last list index.
+        
+   Example 3.9: Slicing shorthand: 
+        0: If the left slice of an index is 0, the 0 is implied. (i.e, list[:3])
+        Length of the List: If the right slice of an index is the length of the index, is it implied. (i.e, list[3:])
         
     
          
