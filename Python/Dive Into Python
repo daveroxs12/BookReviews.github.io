@@ -23,7 +23,9 @@ Chapter 2 -  Your First Python Program
          
       Import: Once a module is imported into Python, call it with module.function.
       
-        __doc__ to request one of the module's attributes. //Returns the built-in doc string n
+        __doc__ to request one of the module's attributes. //Returns the built-in doc string defined in the function's source code
+        
+        import fileName //Imports the file as a module
       
       Library Search: 
          import sys
@@ -31,7 +33,7 @@ Chapter 2 -  Your First Python Program
          sys.path.append
          
          
-     Object: Everything in Python is an object. 
+     Object: Everything in Python is an object, in the sense that it can be assigned to a variable, or passed to an argument.
      
      Connection String: 
           def buildConnectionString(params):
@@ -40,6 +42,21 @@ Chapter 2 -  Your First Python Program
               return ",".join(["%s=%s" % (k,v) for k,v in params.items
               
               """Return String. """"
+              
+     Print Statements: Print Statements can take any type in Python
+     
+     Equivalency: == for comparsion, and = for assignment.
+     
+2.6: Testing Modules: 
+     
+     Modules: Modules are objects, and modules have a built-in attribute of name. 
+        Import: If you import __name__, then name is the module's filename. 
+        Conversely, __name__ can be run as a standalone program, in which case __name__ will be a special default value.
+        import module
+        module.__name__
+        
+Chapter 3: Native Datatypes:
+    
          
       
         
