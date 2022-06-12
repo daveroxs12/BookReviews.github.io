@@ -57,6 +57,20 @@ Chapter 2 -  Your First Python Program
         
 Chapter 3: Native Datatypes:
     
+    Dictionary: A dictionary in Python is a built-in datatypes, that defines the relationship between keys and values. 
+        Note: Dictionaries are case-sensitive
+    
+        Example 3.1: Defining a dictionary:
+            d = {'Server: Theo', 'Name: Owen', 'Name: Owen'}
+            d['Server']
+            
+            Explication: A dictionary is a key-value pair. E.g., 'server,' is a key, and its value, referenced with d['server'], is Theo.
+            
+            Cannot retreive keys by value. E.g, d['Theo'] returns invalid.
+            
+            Append dictionary: To append a dictionary reference by the key value, and supplant it with another value.
+            E.g., d['Server'] = 'Michal
+    
          
       
         
