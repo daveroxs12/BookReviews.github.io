@@ -88,6 +88,23 @@ Chapter 3: Native Datatypes:
         0: If the left slice of an index is 0, the 0 is implied. (i.e, list[:3])
         Length of the List: If the right slice of an index is the length of the index, is it implied. (i.e, list[3:])
         
+   Example 3.10: Adding Elements to a List:
+    Append: Appends a single elemetns to the end of the list (i.e., listName.append('element'))
+    
+    Insert: Inserts a single elements into the ,ist (i.e, listName.insert(2, 'new')
+    
+    Extend: Concatenates Lists (i.e, listName.extend(['elementNameOne', 'elementNameTwo'])
+    
+ Example 3.12: Searching a List:
+    listName.index('example') //Returns the first occurence of an index of the list if found, else returns an exception
+    
+    listName.in('example') //Returns True if the value is in the list, returns False otherwise.
+    
+Example 3.13: Removing elements from a list:
+    Remove: Removes the first occurence of an element in the list listName.remove('element') //If Not Found, returns an exception. 
+    
+    Pop: listname.pop() It removes the last element of the list, and it returns the value that is removed. 
+        
     
          
       
