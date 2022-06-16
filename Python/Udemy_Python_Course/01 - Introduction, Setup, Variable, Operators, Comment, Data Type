@@ -1,0 +1,50 @@
+005 - Python Shell:
+  1. python 
+  2. E.g, 1 + 1 = 2
+  
+008 - Variables:
+  Variable: A variable is an exact memory location to store values. 
+    x = 20 //Location in the memory is allocated to 20
+    
+  ID: id(x) //Lists the location of x in the memory
+  
+  Variable Naming: Variables must start with an underscore (i.e, _var), or a letter (i.e., var). 
+  
+009 - Python Operator: 
+  
+    Addition: '+' (i.e, 3 + 2)
+    
+    Subtraction: '-', (i.e., 10-7)
+    
+    Multiplication: '*', (.e, 6 * 2).
+    
+    Division'\' (i.e, 12/3)
+    
+    Remainder: % (i.e, 7%3 = 1)
+    
+    Power: '**' (3**2 = 9)
+    
+010 - Assignment Operators: 
+
+  Assignment: '=' (i.e, var = 8)
+  
+  Equal to: '=='(print(var) //var == 8)
+  
+  Plus Equal: '+=' (i.e, var += 3) var = 11
+  
+  Minus Equal to: '-=' (i.e, var -= 3) var =5 
+  
+  Multiply Equal To: '*=' (i.e, var *= 3) var = 24
+  
+  Divide Equal To: '/=' (i.e, var /= 2) var = 4
+  
+  Remainder: '%=' (i.e, var %= 2) 0
+  
+  Left Shift: '<<' Shifts the binary towards the left (i.e, 12 << 2) = 1100 binary, 12 << 2 = 110000
+  
+015 Python Operator: 
+  If two variables have the same value, they occupy the same location in memory.
+  a = 14
+  b = 14
+  id(a) = id(b)
+  a is b //Returns True
