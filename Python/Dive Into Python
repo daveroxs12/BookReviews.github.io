@@ -104,6 +104,11 @@ Example 3.13: Removing elements from a list:
     Remove: Removes the first occurence of an element in the list listName.remove('element') //If Not Found, returns an exception. 
     
     Pop: listname.pop() It removes the last element of the list, and it returns the value that is removed. 
+    
+3.3: Introducing Tuples:
+    Tuple: A tuple is an immutable list (E.,g, tuple = ('a', 'b', 'c')
+    
+    Methods: A tuple has no methods, which is why tuples are faster than lists.
         
     
          
