@@ -48,3 +48,6 @@
   b = 14
   id(a) = id(b)
   a is b //Returns True
+  
+Chapter 1: 001:
+  List: A collection of arbitary objects. 
