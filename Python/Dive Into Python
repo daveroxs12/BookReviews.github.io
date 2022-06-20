@@ -118,6 +118,7 @@ Type: The TYPE function returns the datatype of a function (E.g, type(1) //Retur
 
 Str: Str converts any datatype to str, including NONE (E.g, str(None))
     
+DIR: 
         
     
          
