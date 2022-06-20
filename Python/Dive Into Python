@@ -130,9 +130,10 @@ Chapter 4 - The power of introspection:
 
     Filter expression: A filter expression evaluates true or false (E.g, li = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']; [elem for elem in li if len(elem)>1)
     
+4.7. Using lambda Functions:
 
-
-
+    Lambda: Mini-functions on the fly.
+        E.g, def f(x): return x*2
 
         
     
