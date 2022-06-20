@@ -116,7 +116,7 @@ Chapter 4 - The power of introspection:
 
 Type: The TYPE function returns the datatype of a function (E.g, type(1) //Returns type int
 
-Str: Str converts any datatype to str, including NONE (E.g, str(NONE))
+Str: Str converts any datatype to str, including NONE (E.g, str(None))
     
         
     
