@@ -111,6 +111,12 @@ Example 3.13: Removing elements from a list:
     Methods: A tuple has no methods, which is why tuples are faster than lists.
     
 Chapter 4 - The power of introspection:
+
+4.3: Built-in Functions:
+
+Type: The TYPE function returns the datatype of a function (E.g, type(1) //Returns type int
+
+Str: Str converts any datatype to str, including NONE (E.g, str(NONE))
     
         
     
