@@ -114,13 +114,26 @@ Chapter 4 - The power of introspection:
 
 4.3: Built-in Functions:
 
-Type: The TYPE function returns the datatype of a function (E.g, type(1) //Returns type int
+    Type: The TYPE function returns the datatype of a function (E.g, type(1) //Returns type int
 
-Str: Str converts any datatype to str, including NONE (E.g, str(None))
+    Str: Str converts any datatype to str, including NONE (E.g, str(None))
+
+    DIR: Returns the list of all the methods of a type (E.g, dir(list) returns a directory of all the methods of a list.
+
+    Callable: Returns True if the object is callabe, returns false otherwise (E.g)
+
+    Example 4.9: Built-In Attributes and Functions: import __builtin__
+
+4.4. Getting Object References With getattr: Returns the attribute of a list (E.g, getattr(Person, 'age')
+
+4.5. Filtering Lists:
+
+    Filter expression: A filter expression evaluates true or false (E.g, li = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h']; [elem for elem in li if len(elem)>1)
     
-DIR: Returns the list of all the methods of a type (E.g, dir(list) returns a directory of all the methods of a list.
 
-Callable: Returns True if the object is callabe, returns false otherwise (E.g, 
+
+
+
         
     
          
