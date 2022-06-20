@@ -119,6 +119,8 @@ Type: The TYPE function returns the datatype of a function (E.g, type(1) //Retur
 Str: Str converts any datatype to str, including NONE (E.g, str(None))
     
 DIR: Returns the list of all the methods of a type (E.g, dir(list) returns a directory of all the methods of a list.
+
+Callable: Returns True if the object is callabe, returns false otherwise (E.g, 
         
     
          
