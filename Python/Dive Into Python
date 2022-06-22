@@ -142,7 +142,14 @@ Chapter 4 - The power of introspection:
     
     Pass: Pass can be included in a function without methods or attributes, because there has to be something in the class. (Placeholder)
     
-    __init___: __init__ is the 
+    __init___: __init__ is referring to the current instance of a class. Furthermore, the __init__ methods never returns a value.
+    
+    Self = self is merely a convention, but a robust convention at that.
+        Children Classes: Self must be called in the children classes of a parent.
+        
+        
+    
+    
     
     
 
