@@ -134,6 +134,17 @@ Chapter 4 - The power of introspection:
 
     Lambda: Mini-functions on the fly.
         E.g, def f(x): return x*2
+        
+ Chapter 5 - Objects and Object Orientation:
+    from file import methods/function - Files are available directly, without calling the file.
+    
+    Class Names: The convention is to capitalize class names (E.g, Class Loaf: pass)
+    
+    Pass: Pass can be included in a function without methods or attributes, because there has to be something in the class. (Placeholder)
+    
+    __init___: __init__ is the 
+    
+    
 
         
     
