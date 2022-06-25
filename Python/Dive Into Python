@@ -147,6 +147,24 @@ Chapter 4 - The power of introspection:
     Self = self is merely a convention, but a robust convention at that.
         Children Classes: Self must be called in the children classes of a parent.
         
+   Chapter 6. Exceptions and File Handling:
+   
+        Exceptions: except handles exceptions, and raise generates them. (i.e, raise Exception)
+        
+        Types of Exceptions:
+            1. KeyError: A KeyError is generated when attempting to access a non-existent key value.
+            2. ValueError: A ValueError is generated when searching a list for a non-existent value.
+            3. AttributeError: An AttributeError is generated when calling a non-existent method.
+            4. NameError: A NameError is generated when accessing a non-existent variable.
+            5. TypeError: A TypeError is generate when datatypes are mixed without coercion.
+            
+        Raise: When an exception is raised ,it is a handled exception, else it is an unhandled exception. 
+        
+  6.2: Working with File Objects:
+  
+    Open: open returns a file object (E.g, open('/user')
+        Paramters: Open has three parameters: A filename, a mode, and a buffering parameter.
+        
         
     
     
