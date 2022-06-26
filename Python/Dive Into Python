@@ -165,6 +165,27 @@ Chapter 4 - The power of introspection:
     Open: open returns a file object (E.g, open('/user')
         Paramters: Open has three parameters: A filename, a mode, and a buffering parameter.
         
+  6.2.1: Reading Files:
+    Tell: The tell() method reveals one's current position in the open file.
+    
+    Seek: The seek(x, y) moves to another position in the open file.
+    
+    Read: The read(numbers of bytes) returns a string with the read data).
+ 6.5: Closing a File:
+    Closed: The closed boolean indicates whether the file has been closed
+    
+    Close(): The close() method closes the file
+    
+6.2.3: Handling IO Errors:
+    Finally: The finally, as part of a try, the finally block will always be executed.
+    
+6.2.4: Writing to Files:
+    Open: Open Files, specifices the paramters (E.g, open(filename, 'r'/'w', 0)
+    
+    Write Method: write() allows one to add data to newly created file
+    
+    File: The file() function is a synonym for open
+        
         
     
     
