@@ -185,6 +185,31 @@ Chapter 4 - The power of introspection:
     Write Method: write() allows one to add data to newly created file
     
     File: The file() function is a synonym for open
+    
+    
+6.4: Sys Module:
+
+    Sys: Sys is a global dictionary.
+        Sys Modules: sys.modules is a dictionary containing all the modules ever imported since Python was started.
+            (E.g, print(sys.modules.keys())
+            
+ Example 6.14: The __module__ clas attribute:
+    Module: Every class has a built-in __module__, which defines the name of the class in which the module was defined.
+    
+    HasAttr: The hasattr() function check whether an object has a particular atribute.
+    
+6.5: Working with Directories:
+
+    OS: os.path() is a reference to a module, which is operating system specific.
+    
+    Join: The join function of os.path() (E.g, os.path().join() concatenates a string to form a pathway).
+    
+    Expanduser: The expanderuser() of os.path expands a pathname that is used.
+    
+    Split: The split() function of os.path returns the path and filename of a file.
+
+    Splittext: The splitext() function of os.path splits a filename and returns a tuple containing the filename, and filextension.
+
         
         
     
