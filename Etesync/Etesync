@@ -1,0 +1,1 @@
+docker run -d -e SUPER_USER=admin -p 3736:80 -v /portainer/Files/AppData/Config/Etesync:/data victorrds/etesync
