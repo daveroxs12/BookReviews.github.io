@@ -209,6 +209,20 @@ Chapter 4 - The power of introspection:
     Split: The split() function of os.path returns the path and filename of a file.
 
     Splittext: The splitext() function of os.path splits a filename and returns a tuple containing the filename, and filextension.
+    
+Example 6.18: Listing Directories: 
+
+    Listdir: os.listdir() will return all files and folders in a directory.
+    
+    isFile: the os.path.isFile() method returns 1 if it is a file.
+    
+    Normcase: os.path.normcase() returns the name according to the operating system default.
+    
+    Glob: Glob takes a wildcard, and returns a full list of files matching the wildcard.
+        (e.g, 
+Example 6.20: Listing directories with glob:
+    (E.g, import glob: //\n// glob.glob('c:\\music\\_singles\\*.mp3')
+
 
         
         
