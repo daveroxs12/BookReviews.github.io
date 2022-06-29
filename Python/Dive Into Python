@@ -222,6 +222,29 @@ Example 6.18: Listing Directories:
         (e.g, 
 Example 6.20: Listing directories with glob:
     (E.g, import glob: //\n// glob.glob('c:\\music\\_singles\\*.mp3')
+    
+Chapter 7: Regular Expressions:
+    Example 7.1: Matching at the end of the string
+        Case Study: Street Addresses: 
+        s = '100 NORTH BROAD ROAD'
+        s.replace('ROAD', 'RD.')
+        
+        Issue: Replaces broad
+        
+        Resolution: s[-4:] + s[:-4].replace('Road', 'Rd')
+        
+  Regular Expressions: import re module
+  $ = 'end of string," and ^ = 'beginning of string." 
+  (E.g, res.sub('Road$','Rd', s) - Replaces the end of string with 'Rd,' ands specifies that is which term to replace (s)
+  
+  Example 7.2: Matching Whole Words:
+  \b: Match the word if it is its own whole word,not part of a larger word, meaning that "word boundary" must occur right here.
+  
+  \: '\' must be escaped in Python, the backlash plague.
+  
+  To escape the "backlash plague:" prefix with the ltter 'r', which tels Python that nothing should be escaped.
+  
+  7.3: Case Study: Roman Numerals: 
 
 
         
