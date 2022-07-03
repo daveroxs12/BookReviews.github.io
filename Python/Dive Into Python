@@ -255,6 +255,19 @@ Chapter 7: Regular Expressions:
     is found, it will look for start_pre or a do_pre method.If found, SMGL parser calls this method with its associated attributes. 
     
     EndTag: When SMGLParser finds an end tag, it will call a method called end_tagname. If found, SGMLParser calls this method.
+    
+    8.3: Extracting data from URL Documents
+    import urllib
+    sock = urllib.open('https://aeon.co/philosophy')
+    htmlSource = sock.read()
+    sock.close()
+    print htmlSource
+    
+    UrlLib: URLLib retrieves the html of a webpage with urlopen function.
+    
+    Reset: The reset() method of SGML parser is the method called by __init__ of SGML Parser.
+        (E.g, class urllister(SGMLParser) def reset(self): SGMLParser.reset(self) self.urls = []
+            
 
         
         
