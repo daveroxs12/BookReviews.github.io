@@ -251,6 +251,10 @@ Chapter 7: Regular Expressions:
   Chapter 8.2: Introducing sgmllib.py
     smgllib.py contains on significant class: SGML Parser, which parses HTML into useful pieces, like start tags and end tags. To use the parser, subclass
     SMGL Parser, and override the message.
+    Start Tag: When SGMLParser finds a starttag, it will look for a method called start_tagname or do_tagname. For instance, when a <pre> tag 
+    is found, it will look for start_pre or a do_pre method.If found, SMGL parser calls this method with its associated attributes. 
+    
+    EndTag: When SMGLParser finds an end tag, it will call a method called end_tagname. If found, SGMLParser calls this method.
 
         
         
