@@ -246,7 +246,9 @@ Chapter 7: Regular Expressions:
   
   7.3: Case Study: Roman Numerals: 
   
-  Chapter 8: HTML Processing
+  Chapter 8: HTML - Break HTML down into its constitutent pieces, fiddling with the pieces, and reconstructing the HTML again.
+  
+  Chapter 8.2: Introducing sgmllib.py
 
 
         
