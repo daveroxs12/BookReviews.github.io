@@ -245,6 +245,8 @@ Chapter 7: Regular Expressions:
   To escape the "backlash plague:" prefix with the ltter 'r', which tels Python that nothing should be escaped.
   
   7.3: Case Study: Roman Numerals: 
+  
+  Chapter 8: HTML Processing
 
 
         
