@@ -267,7 +267,15 @@ Chapter 7: Regular Expressions:
     
     Reset: The reset() method of SGML parser is the method called by __init__ of SGML Parser.
         (E.g, class urllister(SGMLParser) def reset(self): SGMLParser.reset(self) self.urls = []
+            The reset() method is the __init__ method of SGML Parser.
             
+   Start_a: start_a is the method called by SGML Parser when it finds an <a> tag. 
+   
+   8.4: Introducing BaseHTMLProcessor.py:
+   
+    SGML: SGML Parser takes the HTML, and breaks it down into smaller, structured pieces.
+    
+    HTML Prodiucer
 
         
         
