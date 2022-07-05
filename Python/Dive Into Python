@@ -293,6 +293,13 @@ Chapter 7: Regular Expressions:
             3. Built-in Namespaces: Global to all modules.
             
        If none of these are found: There is no variable named 'x', raise a NameError message.
+       
+       Locals and global at runtime:
+        print(locals()) - Locals returns a a dictionary of names/value, pairs.
+        
+     Globals at runtime: Returns global() at runtime for modules.
+     
+  8.6 Dictionary based string formatting.
 
         
         
