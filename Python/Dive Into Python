@@ -291,6 +291,8 @@ Chapter 7: Regular Expressions:
             Global namespaces: Specific to the current module. If the module has a defined function, variable, or class called x, Python will use that and stop
             searching.
             3. Built-in Namespaces: Global to all modules.
+            
+       If none of these are found: There is no variable named 'x', raise a NameError message.
 
         
         
