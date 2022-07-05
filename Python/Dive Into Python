@@ -276,6 +276,21 @@ Chapter 7: Regular Expressions:
     SGML: SGML Parser takes the HTML, and breaks it down into smaller, structured pieces.
     
     HTML Prodiucer
+    
+    8.5 Locals and Globals: 
+    
+        Namespaces: Python keeps track of variables with namespaces, which is like a dictionary, and the key are the names of the variables and the dictionary
+        values are the values of those variables.
+        
+        Local Namespaces: Each function ahs its own namespace, called the local namespace,.
+        
+        Global namespace: Each module has its own function called the Global Namespace.
+        
+        Searching for a variable: When a value of the variable x is called, Python searches all available namespaces, in order:
+            Local namespace: Specific to the current function or class method. If located, Python will use the argument or local variable x.
+            Global namespaces: Specific to the current module. If the module has a defined function, variable, or class called x, Python will use that and stop
+            searching.
+            3. Built-in Namespaces: Global to all modules.
 
         
         
