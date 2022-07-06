@@ -3,5 +3,7 @@ Chapter 2 - All About Strings
 Strings: Can be created with single quotes '', double quotes(""), or triple quotes, for multi-line files(''' ''')
   Type: Immutable types.
   Reassigning a string: Any time a string in python is reassiged its identity changes.
+  
+  Containts: Only ASCII Characters, if want to use Unicode characters, must be preceded by a u.
 
 Casting: Transforming one type into another type(E.g, x = str(1))
