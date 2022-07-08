@@ -32,3 +32,46 @@ Templates: ('%(lang)s is equivalent to' {'lang','david'})
    Tuples: 
    my_tuple = (0, 1, 2, 3, 4, 5)
    abc = tuple([1, ,2, 3, ,4, 5])
+   
+ Chapter 4- Conditional Statements:
+ 
+ New Line Character \n
+ Tab Character: \t
+ 
+ if __name__ == '__main__':
+  Only run the code if the file is executed as a standalone file.
+  
+  Chapter 5- Loops:
+  Loops are used to repeat an action a set number of times. (For, while).
+  
+  Range: The range(5, 10) will return the numbers from 5, up to, but not including ten.
+  
+  Range(5, 10, 2) Returns every second value between 5 and 10(9), is referred to as the 'step-value.'
+  
+  Dictionaries and For Loops: 
+  a_dict = {'one':1, 'two':2}
+  for key in a_dict:
+    print(key)
+    //Returns two, one, because dictionaries are unordered.
+    
+    The sort(keys) will sort the keys
+    keys = sorted(a_dict.keys())
+    
+  Break: The break within functions is a FLOW CONTROL TOOL, terminates the current loop, and resumes executiion at the next statement.
+  
+  Continue: Skips over a specific loop.
+  
+  Chapter 6- Lists Comprehensions:
+  
+  [x for x in range(0, 10 ,2)]
+  
+  strip(): The strip() method removes leading/ending white space.
+  
+  Nested List Comprehension:
+  nested_list = [ [1, 2, 3] [4, 5, 6] [7, 8, 9]]
+  [num for elem in nested_list for num in elem]
+  
+  Dictionary Comprehensions:
+  
+  print( {i: str(i) for i in range(5)} )
+ 
