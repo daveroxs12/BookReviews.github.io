@@ -92,5 +92,25 @@ Templates: ('%(lang)s is equivalent to' {'lang','david'})
   
   Else: The else for exceptions, the else will only run if there are no errors raised.
   
+  Chapter 8 - Working with Files:
+  
+  Open: Python has a built-in open file for reading.
+  
+  (E.g, open('Text.file','r')
+  
+  Read: The read() function is used to read text. Accepts arguments, 1024 reads 1024 kilobyes of the file.
+  
+  Readline: The readline() function is used to read one line.
+  Readlines: The readlines() function read all of the lines.
+  
+  Reading Line by Line:
+  For line in handle:
+    print(line)
+    
+    Read Binary: To read binary change the file mode to 'rb', read binary.
+    
+  With open: The with open creates a context manager that will automatically close the file when you have finishd with it.
+  
+  
   
  
