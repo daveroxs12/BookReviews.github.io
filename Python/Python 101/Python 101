@@ -74,4 +74,23 @@ Templates: ('%(lang)s is equivalent to' {'lang','david'})
   Dictionary Comprehensions:
   
   print( {i: str(i) for i in range(5)} )
+  
+  A Set Comprehension: A set comprehension is a list comprehension that removes duplicates.
+  mylist = []
+  my_set = set(myList) or {x for x in myList}
+  
+  Chapter 7 - Exception Handling:
+  
+  Handle Exceptions: Use try: except IOError: in Python.
+  
+  Bare Except: A bare except catches any and all exceptions in Python (E.g, try: except), not recommended b/c do not know what exception you are attempting
+  to catch.
+  
+  Multiple exceptions: try: except (KeyError, IndexError): or except KeyError: except indexError.
+  
+  Finally: Will execute after except in Python
+  
+  Else: The else for exceptions, the else will only run if there are no errors raised.
+  
+  
  
