@@ -111,6 +111,38 @@ Templates: ('%(lang)s is equivalent to' {'lang','david'})
     
   With open: The with open creates a context manager that will automatically close the file when you have finishd with it.
   
+  Chapter 9 - Importing:
+  
+  import this
+  
+  from function import module
+  (E.g, from math import sqrt, pi)
+  
+  Shadowing: Change the module to a variable
+  
+  Chapter 10 - Functions:
+  
+  pass: When the function is executed and pass is included, nothing occurs.
+  
+  Return: All functions return something, and if nothing is returned, None is returned
+  
+  **Args: **args for infinite arguments, and **kargs or infinite keyword arguments.
+  
+  Scope: Once a function ends, a varible is out-of-scope, and can no longer be used.
+  
+  Chapter 11 - Classes:
+  
+  Objects: Everything is Python is an object, or everything in Python has a methods and values. 
+  
+  __Init__: the __init__ method is the constructor in Python, and it is called when you instantiate an object based on a class.
+  
+  Method: A function changes its name to a method when it is within a class.
+  
+  if __name__ == '__main__':
+    Run the code as a standalone file
+  
+  
+  
   
   
  
