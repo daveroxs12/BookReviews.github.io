@@ -140,6 +140,44 @@ Templates: ('%(lang)s is equivalent to' {'lang','david'})
   
   if __name__ == '__main__':
     Run the code as a standalone file
+   
+    Chapter 12 - Introspection:
+    
+    Help: The help() module
+    
+  Chapter 13 - The CSV Module:
+  
+    CSV Module: import csv, and use the reader object to read.
+    import csv
+    csv.reader(fileName)
+    
+    DictReader:
+    import csv
+    reader = csv.DictReader(file_obj, delimiter='')
+    for line in reader:
+    print(line['first_name'])
+    
+ Chapter 14 - ConfigParser:
+ 
+ Writing to a file with ConfigParser:
+ 
+ import configparser as c
+ config = c.ConfigParser()
+ config.add_section('Name') //Creates one Section labeled Name with 2 options, fontype, font_size
+ config.set('Settings','Fontype','Courier')
+ config.set('Settings','font_size','Courier')
+ 
+ with open('settings.ini','w') as config_file:
+  config.write(config_file)
+ 
+ Read Values from Config: config.get('Settings','Font')
+ 
+ Remove an Option from ConfigParser:
+  config.remove_option('Settings','Font Style')
+ 
+ Chapter 15 - Logging:
+ 
+ 
   
   
   
