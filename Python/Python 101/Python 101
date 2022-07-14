@@ -177,8 +177,49 @@ Templates: ('%(lang)s is equivalent to' {'lang','david'})
  
  Chapter 15 - Logging:
  
+ Logging: import logging:
  
+           logging.basicConfig(filename = 'sample.log',level=logging.INFO)
+          logging.debug('This is a debug message')
+          logging.info('Informational Message')
+          logging.error('An error has occurred')
+          
+          try: raise Runtime
+          except runtimeError:
+            log.exception('Error!')
+            
+ Chapter 16 - The OS Module:
+ 
+ OS: Import the OS module (import os)
+ 
+ Os.Name: Os.Name returns the name ofthe system.
+ 
+ Os.environ: Os.environ() returns the environmental variables set by the computer ,such as, type of CPU, etc.
+  Os.getenv('User') returns the environmental variable.
   
+ Os.chdir: Os.chdir() allows one to change the directory that the current Python file is running in.
+ 
+ Os.getcwd(): Os.getcwd() returns the current directory that the Python file is running in.
+ 
+ Os.mkdir(): OS.mkdir('Test') creates a single folder:
+ 
+ os.makedirs(): os.makedirs() will create all of the intermediate folder sif they don't exist.
+ 
+ os.remove: OS.remove('file') removes a file.
+ 
+ os.rmdir(): os.rmir('Dir') removes a directory.
+ 
+ os.rename(): Os.rename(src, dst) renames a folder/file.
+ 
+ os.startfile(): Os.startfile(r'FilePath') Starts a file
+ 
+ path = ''
+ for root, dirs in os.walk(path)
+  print(path)
+ Os.walk(): Using os.walk(), one can access all the root directories.
+ 
+ OS.path(): Os.path() Finds the apth
+  os.path.basename(path) returns the filename of a path.
   
   
   
