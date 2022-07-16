@@ -221,6 +221,67 @@ Templates: ('%(lang)s is equivalent to' {'lang','david'})
  OS.path(): Os.path() Finds the apth
   os.path.basename(path) returns the filename of a path.
   
+  Chapter 17 - The Email/SMPTLib Module:
+  
+  Chapter 18: The SQLite Module:
+  
+  SQLLite Module: The SQLLite Module is a module for creating a SQL Database without importing any additional dependencies.
+  
+  #Import SQLLite3 Module
+  import sqllite3
+  
+  #Create a Connection to the Datbase 
+  conn = sqllite3.connect('databasename')
+  
+  #Import Cursor Object, Which allows one to add records and to interact with the databse.
+  cursor = conn.cursor()
+  
+  #Create a Table
+  cursor.execute('''CREATE TABLE albums (title text, artist text, release_date text, publisher text, media_type text)''')
+  
+  5 Supported Data Types of SQL: Null, Integer, Real, Text, and Blob.
+  
+  #Insert into the database
+  
+  cursor.execute('''INSERT INTO albums
+  ('Glow','Andy Hunter','7/24/2012','Xplore Records','MP3')'''
+  ''')
+  
+  #Save data into the database
+  conn.commit()
+  
+  #Close Connection.
+  
+  #Add Multiple Values into the SQLite Databse:
+
+  albums = [('Exodus', 'Andy Hunter', '7/9/2002', 'Sparrow Records', 'CD'),
+  12 ('Until We Have Faces', 'Red', '2/1/2011', 'Essential Records', 'CD')]
+
+  #Insert the Values into the Database
+  cursor.executemany('INSERT INTO albums VALUES(?, ?', albums)
+
+  #Commit the Data into the Table
+  conn.commit()
+  
+  #Updating and Deleting Values:
+  
+  sql = '''
+  UPDATE albums
+  SET artist = 'John Doe'
+  WHERE artist = 'Andy Hunter'
+  '''
+  
+  #Execute the Data
+  
+  cursor.execute(sql)
+  
+  #Delete a SQL Value:
+  
+  sql = '''
+    DELETE from albums
+    WHERE artist = 'John Doe'
+  '''
+  '
   
   
   
