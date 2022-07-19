@@ -283,6 +283,38 @@ Templates: ('%(lang)s is equivalent to' {'lang','david'})
   '''
   '
   
+  Chapter 21 - The Threading Module:
+  
+  Threading: Threading accomplishes concurrency, or accomplishing two tasks at once.
+  
+  Chapter 22 - Dates and Times:
+  
+  Datetime.date(Year, Month, Date)
+  
+  Today: datetime.date.today()
+  
+  Datetime.datei te: Datetime.datetime() passes the arguments of year, month, day, hour, minute, second.
+  
+  Strftime: Strftime('%Y%m%d') displays the time in amore readable format
+  
+  Timedetla: Datetime.timedelta() is the difference between two days or tines.
+  
+  Time Module: Time.ctime() will convert time into a time into seconds:
+    (E.G, import time; time.ctime() 'Thu Mar 06 07:28:48 2014'
+    >>> time.ctime(1384112639)
+5 'Sun Nov 10 13:43:59 2013'
+
+Time.sleep(): Time.sleep() delays the function or module for a specified period of time.
+for x in range(5):
+ time.sleep(2)
+ print("Slept for 2 seconds")
+ Prints the phrase five times with a two-second delay.
+ 
+ time.strftime(): Time.strftime() time.strftime("%Y-%m-%d-%H.%M.%S",
+2 time.localtime())
+
+Time Time: Time.time() will return the time in seconds.
+  
   
   
  
