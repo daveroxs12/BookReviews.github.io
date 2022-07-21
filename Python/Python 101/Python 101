@@ -396,5 +396,38 @@ if __name__ == "__main__":
             print("%s=%s" % (appt_child.tag, appt_child.text))
             
      #Ctree: Ctree is much faster, because it runs on C.
+     
+ Chapter24-pythonDebugger:
+ 
+ import debug_test
+ import pdb
+ pdb.run('debug_start.main()')
+ 
+ Returns: <string>(1)<module>()
+ Type continue to continue
+ 
+ OR Run:
+ Debugger from command line: python -m pdf pythonfile.py
+ 
+ Breakpoint: A breakpoint is a point where you want to halt execution of the code.
+ break or (b) followed by the line number from pdb Debugger
+ 
+ Chapter 25 - Decorators:
+ 
+ Decorator function: A decorator function is when function is passed to another function..
+ 
+ def function(doc):
+ 
+    def other_func():
+    
+ Decorator Function @function
+  def a_function():
+  return '1+1'
+  
+  Built-in Decorators:
+    @classmethod
+    @staticmethod
+    @property
+    
   
  
