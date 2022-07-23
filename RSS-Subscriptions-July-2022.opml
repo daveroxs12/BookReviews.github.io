@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Feed Subscriptions</title>
+</head>
+<body>
+  <outline title="Asia" text="Asia">
+      <outline text="Japan Times latest articles" title="Japan Times latest articles" type="rss" 
+            xmlUrl="https://www.japantimes.co.jp/feed/topstories" htmlUrl="https://www.japantimes.co.jp/"/>
+  </outline>
+  <outline title="Blogs" text="Blogs">
+      <outline text="Astral Codex Ten" title="Astral Codex Ten" type="rss" 
+            xmlUrl="https://astralcodexten.substack.com/feed" htmlUrl="https://astralcodexten.substack.com"/>
+      <outline text="Common Sense" title="Common Sense" type="rss" 
+            xmlUrl="https://www.commonsense.news/feed" htmlUrl="https://www.commonsense.news"/>
+      <outline text="Editors at JSTOR" title="Editors at JSTOR" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/d1pein239x597zb2.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="Emerging Tech Brew" title="Emerging Tech Brew" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/hs2un23hnz4sr92b.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="Make Your Meaning" title="Make Your Meaning" type="rss" 
+            xmlUrl="https://mattdajer.substack.com/feed" htmlUrl="https://mattdajer.substack.com"/>
+      <outline text="Money Scoop - Morning Brew" title="Money Scoop - Morning Brew" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/c03twbsehbhoqw3z.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="Morning Brew" title="Morning Brew" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/8g68gcwqp8gv6n8v.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="PredictionDiffs: Ukraine-Russia War" title="PredictionDiffs: Ukraine-Russia War" type="rss" 
+            xmlUrl="https://rss.app/feeds/pl6IPoRDnfjNNKUv.xml" htmlUrl="http://predictiondiffs.com/"/>
+      <outline text="Readwise" title="Readwise" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/t9rhqh0ubpfqcn8h.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="Slate Star Codex: In a Mad World, All Blogging is Psychiatry Blogging" title="Slate Star Codex: In a Mad World, All Blogging is Psychiatry Blogging" type="rss" 
+            xmlUrl="https://www.reddit.com/r/slatestarcodex/.rss" htmlUrl="https://www.reddit.com/r/slatestarcodex/"/>
+      <outline text="Slow Boring" title="Slow Boring" type="rss" 
+            xmlUrl="https://www.slowboring.com/feed" htmlUrl="https://www.slowboring.com"/>
+      <outline text="The Conversation" title="The Conversation" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/kt58o4c8lk2tok67.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="ThinkingAboutThings" title="ThinkingAboutThings" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/ghbap5eb4jz880nm.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="Today I Found Out" title="Today I Found Out" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/1zltxmcqjhl9ov60.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+  </outline>
+  <outline title="Government Disclosures" text="Government Disclosures">
+      <outline text="Cryptome" title="Cryptome" type="rss" 
+            xmlUrl="http://192.168.1.159:82/?action=display&amp;bridge=Cryptome&amp;n=10&amp;format=Atom"/>
+  </outline>
+  <outline title="Independent Media" text="Independent Media">
+      <outline text="Articles and Investigations - ProPublica" title="Articles and Investigations - ProPublica" type="rss" 
+            xmlUrl="https://www.propublica.org/feeds/main" htmlUrl="https://www.propublica.org/feeds/main"/>
+      <outline text="Center for Public Integrity" title="Center for Public Integrity" type="rss" 
+            xmlUrl="https://publicintegrity.org/feed/" htmlUrl="https://publicintegrity.org/"/>
+      <outline text="Democracy Now!" title="Democracy Now!" type="rss" 
+            xmlUrl="https://www.democracynow.org/democracynow.rss" htmlUrl="http://www.democracynow.org/"/>
+      <outline text="ProPublica" title="ProPublica" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/g2epog8urwnkfjos.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+  </outline>
+  <outline title="Israel/Palestine" text="Israel/Palestine">
+      <outline text="+972 Magazine" title="+972 Magazine" type="rss" 
+            xmlUrl="https://www.972mag.com/feed/" htmlUrl="https://www.972mag.com"/>
+      <outline text="B&#39;Tselem" title="B&#39;Tselem" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/a4y4e7jnsy3j0yjt.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="Haaretz Israel News RSS" title="Haaretz Israel News RSS" type="rss" 
+            xmlUrl="https://www.haaretz.com/cmlink/1.4605045"/>
+      <outline text="Jewish Currents" title="Jewish Currents" type="rss" 
+            xmlUrl="https://jewishcurrents.org/feed" htmlUrl="https://jewishcurrents.org/"/>
+      <outline text="Promoting dialogue about Israel and Palestine" title="Promoting dialogue about Israel and Palestine" type="rss" 
+            xmlUrl="https://www.reddit.com/r/IsraelPalestine.rss" htmlUrl="https://www.reddit.com/r/IsraelPalestine"/>
+      <outline text="The Beinart Notebook" title="The Beinart Notebook" type="rss" 
+            xmlUrl="https://peterbeinart.substack.com/feed" htmlUrl="https://peterbeinart.substack.com"/>
+      <outline text="The Times of Israel" title="The Times of Israel" type="rss" 
+            xmlUrl="https://www.timesofisrael.com/feed/" htmlUrl="https://www.timesofisrael.com"/>
+      <outline text="Tikun Olam  תיקון עולם" title="Tikun Olam  תיקון עולם" type="rss" 
+            xmlUrl="https://www.richardsilverstein.com/feed/" htmlUrl="https://www.richardsilverstein.com/"/>
+  </outline>
+  <outline title="Jewish" text="Jewish">
+      <outline text="Rationalist Judaism" title="Rationalist Judaism" type="rss" 
+            xmlUrl="http://www.rationalistjudaism.com/feeds/posts/default" htmlUrl="http://www.rationalistjudaism.com/"/>
+      <outline text="Tablet Magazine" title="Tablet Magazine" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/xfq74jp7wn2yo0p3.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="ynet - Jewish Scene" title="ynet - Jewish Scene" type="rss" 
+            xmlUrl="https://www.ynet.co.il/Integration/StoryRss3443.xml" htmlUrl="https://www.ynet.co.il"/>
+  </outline>
+  <outline title="Law Journals" text="Law Journals">
+      <outline text="Chicago Journal of International Law" title="Chicago Journal of International Law" type="rss" 
+            xmlUrl="https://chicagounbound.uchicago.edu/cjil/recent.rss" htmlUrl="https://chicagounbound.uchicago.edu/cjil"/>
+      <outline text="Harvard International Law Journal" title="Harvard International Law Journal" type="rss" 
+            xmlUrl="https://harvardilj.org/category/articles/feed/" htmlUrl="https://harvardilj.org"/>
+  </outline>
+  <outline title="Magazines" text="Magazines">
+      <outline text="Aeon" title="Aeon" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/iaf3i9hpxqiovu14.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="Article – The Nation" title="Article – The Nation" type="rss" 
+            xmlUrl="https://www.thenation.com/feed/?post_type=article" htmlUrl="https://www.thenation.com"/>
+      <outline text="Best of The Atlantic" title="Best of The Atlantic" type="rss" 
+            xmlUrl="http://192.168.1.159:8190/makefulltextfeed.php?url=sec%3A%2F%2Fwww.theatlantic.com%2Ffeed%2Fbest-of%2F&amp;max=200&amp;links=preserve&amp;exc=&amp;submit=Create+Feed"/>
+      <outline text="Democracy Journal" title="Democracy Journal" type="rss" 
+            xmlUrl="https://democracyjournal.org/feed/" htmlUrl="https://democracyjournal.org"/>
+      <outline text="Dissent" title="Dissent" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/8hdkmgu2k1objydb.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="London Review of Books" title="London Review of Books" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/myo001pqmo5abown.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="The Economist Weekly Edition" title="The Economist Weekly Edition" type="rss" 
+            xmlUrl="http://192.168.1.159:8190/makefulltextfeed.php?url=sec%3A%2F%2Fwww.economist.com%2Fweeklyedition&amp;max=200&amp;links=preserve&amp;exc=&amp;submit=Create+Feed"/>
+      <outline text="The New York Review of Books" title="The New York Review of Books" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/yrp2lfoyl5r9otcy.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+      <outline text="The Paris Review" title="The Paris Review" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/sqxoupla5f0uzs8b.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+  </outline>
+  <outline title="News" text="News">
+      <outline text="World News: Top &#38; Breaking World News Today | AP News" title="World News: Top &#38; Breaking World News Today | AP News" type="rss" 
+            xmlUrl="http://192.168.1.159:8190/makefulltextfeed.php?url=https://apnews.com/hub/world-news?utm_source=apnewsnav&amp;utm_medium=navigation&amp;max=200&amp;links=preserve&amp;exc="/>
+      <outline text="World News | Latest Top Stories" title="World News | Latest Top Stories" type="rss" 
+            xmlUrl="http://192.168.1.159:8190/makefulltextfeed.php?url=sec%3A%2F%2Fwww.reuters.com%2Fworld%2F&amp;max=200&amp;links=preserve&amp;exc=&amp;submit=Create+Feed"/>
+  </outline>
+  <outline title="Science" text="Science">
+      <outline text="Nautilus | Science Connected" title="Nautilus | Science Connected" type="rss" 
+            xmlUrl="https://nautil.us/feed/" htmlUrl="https://nautil.us"/>
+      <outline text="Quanta Magazine" title="Quanta Magazine" type="rss" 
+            xmlUrl="https://api.quantamagazine.org/feed/" htmlUrl="https://www.quantamagazine.org"/>
+      <outline text="Reddit Science" title="Reddit Science" type="rss" 
+            xmlUrl="https://www.reddit.com/r/science.rss" htmlUrl="https://www.reddit.com/r/science"/>
+  </outline>
+  <outline title="Spanish-Speaking World" text="Spanish-Speaking World">
+      <outline text="Latin America Brief - Foreign Policy" title="Latin America Brief - Foreign Policy" type="rss" 
+            xmlUrl="https://kill-the-newsletter.com/feeds/3tzimwcd8shv2dhj.xml" htmlUrl="https://kill-the-newsletter.com/"/>
+  </outline>
+  <outline title="Youtube" text="Youtube">
+      <outline text="Wendover Productions" title="Wendover Productions" type="rss" 
+            xmlUrl="https://www.youtube.com/feeds/videos.xml?channel_id=UC9RM-iSvTu1uPJb8X5yp3EQ" htmlUrl="https://www.youtube.com/channel/UC9RM-iSvTu1uPJb8X5yp3EQ"/>
+  </outline>
+</body>
+</opml>
