@@ -1,0 +1,3 @@
+Resolve 'File not Writable by abc'
+  chmod 777 folderName
+  sudo chmod +rwx folderName
