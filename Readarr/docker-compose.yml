@@ -10,6 +10,7 @@ services:
     volumes:
       - /portainer/Files/AppData/Config/Readarr/data:/config
       - /home/pi/Ebooks:/books #optional
+      -/home/pi/EbookDownloads:/downloads
     ports:
       - 8787:8787
     restart: unless-stopped
