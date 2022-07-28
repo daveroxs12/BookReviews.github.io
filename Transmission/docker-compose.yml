@@ -1,0 +1,21 @@
+version: "2.1"
+services:
+  transmission:
+    image: lscr.io/linuxserver/transmission
+    container_name: transmission
+    environment:
+      - PUID=1000
+      - PGID=1000
+      - TZ=Amerca/New_York
+      - TRANSMISSION_WEB_HOME=/combustion-release/ #optional
+      - USER=daveroxs12 #optional
+      - PASS=q4^^MRpo8MSk%iAKVZ9 #optional
+    volumes:
+      - /portainer/Files/AppData/Config/Transmission/data:/config
+      - /portainer/Files/AppData/Config/Transmission/downloads:/downloads
+      - /portainer/Files/AppData/Config/Transmission/watch:/watch
+    ports:
+      - 9091:9091
+      - 51413:51413
+      - 51413:51413/udp
+    restart: unless-stopped
